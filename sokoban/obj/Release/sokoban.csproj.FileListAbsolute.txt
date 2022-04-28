@@ -1,0 +1,17 @@
+D:\courseworks\namig\sokoban\sokoban\bin\Release\sokoban.exe.config
+D:\courseworks\namig\sokoban\sokoban\bin\Release\sokoban.exe
+D:\courseworks\namig\sokoban\sokoban\bin\Release\sokoban.pdb
+D:\courseworks\namig\sokoban\sokoban\bin\Release\en\sokoban.resources.dll
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.csproj.AssemblyReference.cache
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.MainMenuForm.resources
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.Properties.Resources.resources
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.csproj.GenerateResource.cache
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.csproj.CoreCompileInputs.cache
+D:\courseworks\namig\sokoban\sokoban\obj\Release\en\sokoban.resources.dll
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.exe
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.pdb
+D:\courseworks\namig\sokoban\sokoban\bin\Release\Newtonsoft.Json.dll
+D:\courseworks\namig\sokoban\sokoban\bin\Release\Newtonsoft.Json.xml
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.SokobanForm.resources
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.SokobanForm.en.resources
+D:\courseworks\namig\sokoban\sokoban\obj\Release\sokoban.csproj.CopyComplete
